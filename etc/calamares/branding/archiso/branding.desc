@@ -30,9 +30,9 @@ images:
     productWelcome:         "idioma.png"
 
 style:
-   sidebarBackground:       "#FFFFFF"
+   sidebarBackground:       "#f6f6f6"
    sidebarText:             "#292F34"
-   sidebarTextSelect:       "#ffffff"
+   sidebarTextSelect:       "#FFFFFF"
    sidebarTextHighlight:    "#2093d1"
 
 slideshow:               "show.qml"
